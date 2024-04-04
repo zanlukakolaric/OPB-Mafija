@@ -1,0 +1,5 @@
+tukaj noter napišemo vse pakete ki jih hočeš pip installat, na primer
+
+bottlr, itd.
+
+(ostalo piše na spletni)
